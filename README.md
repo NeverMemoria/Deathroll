@@ -1,1 +1,1 @@
-Created a simple deathroll game in python
+A simple deathroll game in python
